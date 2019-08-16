@@ -1,0 +1,24 @@
+{ headers:
+   { host: 'localhost:3000',
+     connection: 'keep-alive',
+     origin: 'http://localhost',
+     'user-agent': 'Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTM
+L, like Gecko) Chrome/43.0.2357.132 Safari/537.36',
+     accept: '*/*',
+     referer: 'http://localhost/chat-realtime/chat-example-master/temp.html',
+     'accept-encoding': 'gzip, deflate, sdch',
+     'accept-language': 'es-ES,es;q=0.8,en;q=0.6',
+     cookie: 'io=c2EVcOgSzPlZ5UCrAAAA' },
+  time: 'Wed Jul 08 2015 14:51:16 GMT-0500 (Hora est. Pacífico, Sudamérica)',
+  address: '127.0.0.1',
+  xdomain: true,
+  secure: false,
+  issued: 1436385076002,
+  url: '/socket.io/?slot=luis%3Agaleano&EIO=3&transport=polling&t=1436385075026-
+9',
+  query:
+   { slot: 'luis:galeano',
+     EIO: '3',
+     transport: 'polling',
+     t: '1436385075026-9' } 
+    }

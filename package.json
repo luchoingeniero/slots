@@ -3,7 +3,7 @@
   "version": "0.0.1",
   "description": "Socket Xploradata",
   "dependencies": {
-    "express": "^4.14.0",
+    "express": "^4.18.2",
     "mysql": "^2.11.1",
     "socket.io": "^1.4.8"
   }
